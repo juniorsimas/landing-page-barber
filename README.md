@@ -61,7 +61,7 @@ Este projeto está licenciado sob a Licença MIT. Isso significa que você pode 
 
 ## Contato 📫
 
-Meu nome é Fulano de Tal, sou um desenvolvedor web apaixonado por tecnologia e inovação. Você pode entrar em contato comigo pelos seguintes meios:
+Meu nome é Júnior Simas, sou um desenvolvedor web apaixonado por tecnologia e inovação. Você pode entrar em contato comigo pelos seguintes meios:
 
 - E-mail: [juniorsimasdev@hotmail.com](mailto:juniorsimasdev@hotmail.com)
 - GitHub: [https://github.com/juniorsimas](https://github.com/juniorsimas)
