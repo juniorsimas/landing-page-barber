@@ -65,7 +65,7 @@ Meu nome é Fulano de Tal, sou um desenvolvedor web apaixonado por tecnologia e 
 
 - E-mail: juniorsimasdev@hotmail.com
 - GitHub: https://github.com/juniorsimas
-- LinkedIn: https://www.linkedin.com/in/juniorsimas26
+- LinkedIn:<a href="https://www.linkedin.com/in/juniorsimas26" target="_blank">https://www.linkedin.com/in/juniorsimas26</a>
 - LinkTree: [https://juniorsimas.netlify.app/](https://juniorsimas.netlify.app/)
 
 ## Link do projeto online 🌐
