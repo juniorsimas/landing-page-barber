@@ -63,11 +63,11 @@ Este projeto está licenciado sob a Licença MIT. Isso significa que você pode 
 
 Meu nome é Fulano de Tal, sou um desenvolvedor web apaixonado por tecnologia e inovação. Você pode entrar em contato comigo pelos seguintes meios:
 
-- E-mail: juniorsimasdev@hotmail.com
-- GitHub: https://github.com/juniorsimas
-- LinkedIn:<a href="https://www.linkedin.com/in/juniorsimas26" target="_blank">https://www.linkedin.com/in/juniorsimas26</a>
+- E-mail: [juniorsimasdev@hotmail.com](mailto:juniorsimasdev@hotmail.com)
+- GitHub: [https://github.com/juniorsimas](https://github.com/juniorsimas)
+- LinkedIn: [https://www.linkedin.com/in/juniorsimas26](https://www.linkedin.com/in/juniorsimas26/)
 - LinkTree: [https://juniorsimas.netlify.app/](https://juniorsimas.netlify.app/)
 
 ## Link do projeto online 🌐
 
-Você pode acessar o projeto online neste link: https://landing-page-barber.netlify.app/
+Você pode acessar o projeto online neste link: [https://landing-page-barber.netlify.app](https://landing-page-barber.netlify.app/)
